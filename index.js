@@ -1,1 +1,1 @@
-const random = require("./funcs/random.js")
+const { random } = require("./funcs/random.js")
